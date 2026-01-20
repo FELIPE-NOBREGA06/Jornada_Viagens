@@ -43,6 +43,10 @@ nav {
   font-family: "Montserrat";
 }
 
+.list-link li {
+  margin: 16px 0;
+}
+
 .list-links li a {
   color: var(--text-secondary-color);
   text-decoration: none;
