@@ -4,7 +4,6 @@
   font-style: normal;
   font-display: swap;
 }
-
 :root {
   --primary-color: #8f0101;
   --secondary-color: #b81515;
@@ -29,4 +28,5 @@
 
 body {
   font-family: "Montserrat";
+  color: var(--text-primary-color);
 }
